@@ -1,0 +1,115 @@
+Quick Guide to ubantu:-          17th April 2k18
+
+->Ubuntu is a Linux-based operating system. 
+->It is designed for computers, smartphones, and network servers. 
+->The system is developed by a UK based company called Canonical Ltd.
+
+
+   Features:-
+   1.The desktop version of Ubuntu supports all the normal software on Windows such as Firefox, Chrome, VLC, etc.
+   2.It supports the office suite called LibreOffice.
+   3.Ubuntu has an in-built email software called Thunderbird, which gives the user access to email such as Exchange, Gmail, Hotmail, etc.
+   4.There are a host of free applications for users to view and edit photos.
+   
+   
+   Command line :-
+   
+   1.)ls –option directoryname #list of the contents inside the directory
+   
+   Parameters
+
+    Option − These are the options to be specified with the ls command.
+
+    Directoryname − This is the optional directory name that can be specified along with the ls command.
+
+   
+   2.)ls -l  #list out the content inside the directory in details.
+   
+   3.)clear #clear the terminal window
+   
+   4.)man commandname #to get help about any command
+   
+   5.)find sample.*(filepattern) #used to find the file within the computer 
+   
+   6.)whoami- #tell you about the loggedin user 
+   
+   7.)pwd #tells you about the present working directory
+   
+   8.)sudo #This SuperUserDo is the most important command Linux newbies will use. Every single command that needs root's permission, 
+            need this sudo command. You can use sudo before each command that requires root permissions
+            
+   9.)cd #changing directory
+   
+   10.)mkdir #make directory
+   
+   11.)cp- #copy & paste from terminal is done using this command.
+       ex- cp src des
+    
+       Note:-If you're copying files into the directory that requires root permission for any new file, then you'll need to use 
+       sudo command.
+
+   
+   12.)rm-  rm is a command to remove your file or even your directory. You can use -f if the file need root permission to be removed. And  
+          also you can use -r to do recursive removal to remove your folder
+          
+          Exp-$ rm myfile.txt
+          
+   13.)apt-get  // $ sudo apt-get update
+       The apt-get command will help you installing the software you need to run in your Linux. It is a powerful command-line tool which 
+       can perform installation, upgrade, and even removing your software.
+   
+   14.)grep  // $ grep user /etc/passwd 
+        You need to find a file but you don't remember its exact location or the path  
+        
+   15.) cat 1st.txt
+          Show you the text inside that file
+          
+   16.)poweroff- poweroff your system
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
